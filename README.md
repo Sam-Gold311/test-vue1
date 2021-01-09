@@ -1,4 +1,4 @@
-# test-vue1
+# Таймер на vue
 
 ## Project setup
 ```
