@@ -1,24 +1,18 @@
 # Таймер на vue
 
-## Project setup
+## Установка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Сборка и авто-перезагрузка для разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка для продакшна
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
